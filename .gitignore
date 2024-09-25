@@ -1,4 +1,4 @@
 /.venv
 /.conda
 *.zip
-*/data*
+*data*
